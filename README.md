@@ -1,7 +1,7 @@
 # Selenium-SCU-teaching-evaluation
 四川大学新版教务系统Python评教脚本（基于Selenium包）
 
-在运行脚本前请确保已安装Python 3、Selenium包和浏览器Driver。
+在运行脚本前请确保已安装Chrome浏览器、Python 3、Selenium包和浏览器Driver。
 
 使用Python运行脚本，在命令提示符或shell中输入：
 ```shell
