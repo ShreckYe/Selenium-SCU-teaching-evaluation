@@ -17,6 +17,6 @@ pip install selenium
 ### 安装Driver
 请参考[教程Driver部分](https://selenium-python.readthedocs.io/installation.html#drivers)，下载Chrome浏览器对应的Driver，并解压添加到系统环境变量，或者添加到脚本所在文件夹。
 
-你也可以从本仓库下载[ChromeDriver 2.45](chromedriver_win32.zip)。
+你也可以从本仓库下载[ChromeDriver 2.45](https://github.com/ShreckYe/Selenium-SCU-teaching-evaluation/raw/master/chromedriver_win32.zip)。
 
 若希望了解更多Python下的Selenium安装与配置教程请参考[1. Installation — Selenium Python Bindings 2 documentation](https://selenium-python.readthedocs.io/installation.html)。
