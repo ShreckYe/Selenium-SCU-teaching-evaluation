@@ -33,7 +33,7 @@ while True:
     if browser.current_url == "http://zhjw.scu.edu.cn/index.jsp":
         break
     else:
-        print("登陆失败，请重新输入。")
+        print("登录失败，请重新输入。")
 
 # 进入评教页面
 browser.get("http://zhjw.scu.edu.cn/student/teachingEvaluation/evaluation/index")
