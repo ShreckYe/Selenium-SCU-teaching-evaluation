@@ -3,12 +3,11 @@
 
 在运行脚本前请确保已安装Python 3、Selenium包和浏览器Driver。
 
-使用Python运行脚本：
+使用Python运行脚本，在命令提示符或shell中输入：
 ```shell
 python Selenium_SCU_teaching_evaluation.py
 ```
 
-双击bat文件即可在Windoes系统性直接运行此脚本。
 ## Selenium的安装与配置
 ### 安装Selenium包
 使用PIP输入以下命令：
