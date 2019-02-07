@@ -3,7 +3,7 @@
 
 在运行脚本前请确保已安装Chrome浏览器、Python 3、Selenium包和浏览器Driver。
 
-使用Python运行脚本，在命令提示符或shell中输入：
+[下载脚本](https://github.com/ShreckYe/Selenium-SCU-teaching-evaluation/raw/master/Selenium_SCU_teaching_evaluation.py)并使用Python运行脚本，在命令提示符或shell中输入：
 ```shell
 python Selenium_SCU_teaching_evaluation.py
 ```
